@@ -1,6 +1,6 @@
 {
   "name": "react-native-circle-button",
-  "version": "1.0.8",
+  "version": "1.0.9",
   "description": "React Native Circle Button",
   "main": "src/main.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dwicao/react-native-circle-button.git"
+    "url": "git+https://github.com/xujinfu/react-native-circle-button.git"
   },
   "keywords": [
     "react",
@@ -23,7 +23,10 @@
   "author": "Lutfian Dwi Cahyono <lutfiandwica@gmail.com> (https://dwicao.github.io/)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dwicao/react-native-circle-button/issues"
+    "url": "https://github.com/xujinfu/react-native-circle-button/issues"
   },
-  "homepage": "https://github.com/dwicao/react-native-circle-button#readme"
+  "homepage": "https://github.com/xujinfu/react-native-circle-button#readme",
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  }
 }
